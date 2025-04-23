@@ -1,8 +1,6 @@
 👋
 
-I'm a seasoned software developer specialising in crafting innovative user interfaces.
-
-My expertise lies in front-end development, where I excel in analysing requirements and designing customised technical solutions using React, Vue and other leading frameworks.
+I'm a seasoned software developer. My expertise lies in front-end development, where I excel in analysing requirements and designing customised technical solutions using React, Vue and other leading frameworks.
 
 Committed to excellence, I have experience in TDD, BDD and major coding principles to ensure high-quality code.
 
