@@ -1,8 +1,8 @@
-👋 I'm a seasoned software developer.
+👋 I'm a senior software developer.
 
 My expertise lies in front-end development, where I am expert in analysing requirements and designing customised technical solutions based on React, Vue and other leading frameworks.
 
-Committed to excellence, I have experience in TDD, BDD and major coding principles to ensure high-quality code.
+Committed to excellence, I have experience in TDD, BDD which have consistently led to the delivery of high-quality, bug-free applications.
 
 I am continous learner, with minor experience in python and js/ts back-end development.
 
