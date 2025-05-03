@@ -20,4 +20,4 @@ I am continous learner, with minor experience in python and js/ts back-end devel
 
 Beyond the listed technologies, I bring proficiency in SwiftUI, Go, and .NET, allowing me to adapt and excel across diverse project requirements.
 
-✅ ✅ I proudly manage my personal brand, Right Right, where I create digital products by harmonizing design, management, and coding.
+✅ ✅ I proudly manage my personal brand, right right, where I create digital products by harmonizing design, business, and coding.
