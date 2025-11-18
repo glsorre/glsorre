@@ -1,10 +1,4 @@
-👋 I'm a senior software developer with a deep background in UX and design. My journey into software development is rooted in an academic foundation that includes an MSc in Human-Computer Interaction and early career roles as a UX Lead and Usability Specialist.
-
-My expertise lies in front-end development, where I am expert in analysing requirements and designing customised technical solutions based on React, Vue and other leading frameworks.
-
-Committed to excellence, I have experience in TDD, BDD which have consistently led to the delivery of high-quality, bug-free applications.
-
-I am continous learner, with minor experience in python and js/ts back-end development.
+👋 I'm a senior software developer with a deep background in UX and design.
 
 🚀 These technologies form the backbone of my ideal stack, enabling me to deliver robust and scalable solutions.
 
