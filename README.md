@@ -14,4 +14,4 @@
 
 Beyond the listed technologies, I bring proficiency in SwiftUI, Go, and .NET, allowing me to adapt and excel across diverse project requirements.
 
-✅ ✅ I proudly manage my personal brand, right right, where I create digital products by harmonizing design, business, and coding.
+✅ ✅ I proudly manage my personal brand, right right, where where I create digital products to satisfy real users'needs with high quality technical solutions.
