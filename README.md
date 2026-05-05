@@ -1,5 +1,16 @@
-👋 I am a senior full-stack engineer with over 10 years of experience creating delightful frontends and high-performance backends.
+# 👋, I'm Giuseppe.
 
-I combine deep technical engineering knowledge with a strong academic and professional background in UX.
+I build opinionated developer tools — small, native, useful — and run my solo software house **[rightright.me](https://rightright.me)**.
 
-If you want to know more about me, check [www.glsorre.com](http://www.glsorre.com).
+Most of my public work lives at the seam between developer tools that should already work together but don't, check my pins.
+
+By day I'm a senior software engineer at Fincons. Twenty years in, mostly across native desktop (Swift, C#) and modern web (TypeScript, Vue, React).
+
+## 🚀 Now
+
+- Shipping **Crane** — native macOS GUI for Apple Containers
+- Publishing **crib-vscode** to the VS Code Marketplace
+
+## 📧 Reach me
+
+giuseppe [at] glsorre [dot] com
