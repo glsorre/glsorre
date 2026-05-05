@@ -1,6 +1,6 @@
 # 👋, I'm Giuseppe.
 
-I build opinionated developer tools — small, native, useful — and run my solo software house **[rightright.me](https://rightright.me)**.
+I build opinionated tools for power users — small, native, useful — and run my solo software house **[rightright.me](https://rightright.me)**.
 
 Most of my public work lives at the seam between developer tools that should already work together but don't, check my pins.
 
