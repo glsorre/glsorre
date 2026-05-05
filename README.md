@@ -4,7 +4,9 @@ I build opinionated developer tools — small, native, useful — and run my sol
 
 Most of my public work lives at the seam between developer tools that should already work together but don't, check my pins.
 
-By day I'm a senior software engineer at Fincons. Twenty years in, mostly across native desktop (Swift, C#) and modern web (TypeScript, Vue, React).
+By day I'm a senior software engineer at Fincons.
+
+10+ years of experience mostly across native desktop (Swift, C#) and modern web (TypeScript, Vue, React).
 
 ## 🚀 Now
 
