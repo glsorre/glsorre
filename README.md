@@ -11,7 +11,7 @@ By day I'm a senior software engineer at Fincons.
 ## 🚀 Now
 
 - Shipping **[Right Crane](https://www.rightright.me/products/right-crane/)** — native macOS GUI for Apple Containers
-- Publishing **[crib-vscode](https://github.com/glsorre/crib-vscode)** to the VS Code Marketplace
+- Publishing **[crib-vscode](https://www.rightright.me/products/crib-vscode)** to the VS Code Marketplace
 
 ## 📧 Reach me
 
