@@ -1,18 +1,14 @@
-# 👋, I'm Giuseppe.
+# 👋, I'm Giuseppe
 
-I build opinionated tools for power users — small, native, useful — and run my solo software house **[rightright.me](https://rightright.me)**.
+I'm a senior software engineer at UL Solutions. Before that I worked at Acronis, InReach Ventures and Hotels.com (Expedia Group), on native desktop apps (Swift, C#) and the modern web (TypeScript, Vue, React).
 
-Most of my public work lives at the seam between developer tools that should already work together but don't, check my pins.
+Some work I'm proud of:
+• At InReach Ventures I led the move from a monolith to micro-frontends, which took releases from monthly to weekly.
+• I shipped the MVP of Acronis's Vendor Portal in six months.
+• I co-founded yet|matilde, a design studio, where I handled client relationships, proposals and design leadership.
 
-By day I'm a senior software engineer at Fincons.
+# 🚀 Alongside my job
 
-10+ years of experience mostly across native desktop (Swift, C#) and modern web (TypeScript, Vue, React).
+I build my own products for developers and power users. They're small, fast, native tools for the gaps between things that should already work together but don't.
 
-## 🚀 Now
-
-- Shipping **[Right Crane](https://www.rightright.me/products/right-crane/)** — native macOS GUI for Apple Containers
-- Publishing **[crib-vscode](https://www.rightright.me/products/crib-vscode)** to the VS Code Marketplace
-
-## 📧 Reach me
-
-giuseppe [at] glsorre [dot] com
+I'm not a freelancer and I don't take client projects.
