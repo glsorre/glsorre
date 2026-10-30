@@ -10,5 +10,3 @@ Some work I'm proud of:
 # 🚀 Alongside my job
 
 I build my own products for developers and power users. They're small, fast, native tools for the gaps between things that should already work together but don't.
-
-I'm not a freelancer and I don't take client projects.
